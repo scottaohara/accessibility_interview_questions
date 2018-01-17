@@ -1,8 +1,8 @@
 # Accessibility Interview Questions  
 
-A starting point of ideas to ask someone that wants you to give them a job.  
+Ideas for questions to ask someone that wants you to give them a job... or queries to enter into your search engine of choice to maybe learn a thing or two.  
 
-The questions are grouped into three buckets: General, Technical, and Design. This may be a mistake, but we're going with it for now.  
+The questions are grouped into three buckets: General, Technical, and Design. This may be a mistake, but we're going with it for now. Regardless of the role you are looking to fill, ideally a candidate should be able to answer some questions, or version of questions, from each category.  
 
 
 ## General
@@ -14,6 +14,7 @@ The questions are grouped into three buckets: General, Technical, and Design. Th
 - What is/are the primary guideline(s) used to measure accessibility compliance?
 - When is it appropriate to alter the way a screen reader announces content?
 - Name some assistive technologies you can think of. (these should be more than just screen readers)
+- What are the four categories of WCAG compliance?
 
 
 ## Technical
