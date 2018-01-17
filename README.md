@@ -13,6 +13,7 @@ The questions are grouped into three buckets: General, Technical, and Design. Th
 - In what ways should a user be able to close a modal dialog?
 - What is/are the primary guideline(s) used to measure accessibility compliance?
 - When is it appropriate to alter the way a screen reader announces content?
+- Name some assistive technologies you can think of. (these should be more than just screen readers)
 
 
 ## Technical
@@ -42,5 +43,6 @@ The questions are grouped into three buckets: General, Technical, and Design. Th
 ## Design
 - Talk about the pros and cons of flat and skeuomorphic design trends in regards to accessibility.
 - Why is color alone insufficient to connote an actionable element, or to convey state?
+- Where is the optimal location to place a form validation error message?  What about an error message for an individual form field?
 
 
