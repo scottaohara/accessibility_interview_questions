@@ -28,7 +28,7 @@ These questions have answers, but it's not intended to be a graded quiz. Use the
 - Why is it important to allow the viewport to scale?
 - When is it appropriate to use the `title` attribute?
     + In what manner is it exposed to assistive technologies?
-    + What accessibility <abbr="User Experience">UX</abbr> challenges does it pose?
+    + What accessibility <abbr title="User Experience">UX</abbr> challenges does it pose?
 - What are landmarks?
     + How are `banner` and `contentinfo` landmarks natively determined by browsers?
     + Why do some people confuse `article` as a landmark?
@@ -42,7 +42,7 @@ These questions have answers, but it's not intended to be a graded quiz. Use the
 - When should you use `aria-live="assertive"` instead of `aria-live="polite"`?
 - If given the opportunity to use icon fonts or <abbr title="Scalable Vector Graphics">SVGs</abbr>, which one would you use and why?
 - Name some issues with using pseudo content.
-- What’s the first rule of <abbr="Accessible Rich Internet Applications">ARIA</abbr>?
+- What’s the first rule of <abbr title="Accessible Rich Internet Applications">ARIA</abbr>?
 - What is the <abbr title="World Wide Web Consortium">W3C</abbr>?
 - What is a skip link and why is it important?
 - How do you make <abbr>SVG</abbr> accessible?
