@@ -78,5 +78,5 @@ These questions have answers, but it's not intended to be a graded quiz. Use the
 - Describe the importance of good copywriting for a user interface.
 
 ## Have a question to add?
-[Submit a Pull Request](https://github.com/scottaohara/accessibility_interview_questions/pulls) for consideration.
+[Create an issue](https://github.com/scottaohara/accessibility_interview_questions/issues), or [submit a pull request](https://github.com/scottaohara/accessibility_interview_questions/pulls) for consideration.
 
