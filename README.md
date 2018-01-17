@@ -29,7 +29,6 @@ These questions are grouped into three buckets: [General](#general), [Technical]
     + How is `title` exposed to assistive technologies?
     + What is `title`'s primary <abbr title="User Experience">UX</abbr> issue?
 - What are landmarks?
-    + How do browsers determine the `banner` and `contentinfo` landmarks of a document?
     + Why might someone confuse `article` as a landmark?
     + How many `main` elements can be used in a single document?
 - When is it OK to use a toggle button, such as a `button` utilizing `aria-pressed` and/or `role="switch"` over a checkbox?
@@ -50,7 +49,7 @@ These questions are grouped into three buckets: [General](#general), [Technical]
 - What are some of the tools available to test the accessibility of a website or web application?
 - Describe an instance where an automated test would not flag a blatant accessibility error?
 - When should you recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
-- Describe your process for determining if an accessibility bug is due to a developer, browser, or assistive technology error?
+- Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
 - Describe how a single page web app should manage focus when a person loads a new screen.
 - When is it OK to use table elements? 
 - What other states can be set to a selector besides `:hover`?
