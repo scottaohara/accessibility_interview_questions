@@ -16,12 +16,12 @@ These questions are grouped into three buckets: [General](#general), [Technical]
 - What guidelines are available to measure accessibility compliance?
 - What are the downsides of using text that only screen readers can access?
 - When is it OK to change the way a screen reader announces content?
-- Name some assistive technologies you can think of. (these should be more than just screen readers)
+- Name some assistive technologies that you can think of. (these should be more than just screen readers)
 - What are the four categories of <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> compliance?
 
 
 ## Technical
-- Talk about some of the different tools or methods available to determine the accessible name of an element.  
+- Talk about some of the different tools or methods that you can check on an element’s accessible name.  
 - What is the accessibility tree?
 - Describe what heading elements are used for.
 - Why is it important to allow the viewport to scale?
