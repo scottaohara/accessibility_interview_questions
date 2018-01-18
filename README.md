@@ -11,19 +11,20 @@ These questions are grouped into three buckets: [General](#general), [Technical]
 - Who benefits from accessibility?
 - Name some ways responsive/mobile first design can benefit accessibility.
 - Talk about the pros and cons of using iconography.
-- Why are rems or ems preferable to pixels for setting type size?
 - In what ways should someone be able to close a modal dialog?
 - What guidelines are available to measure accessibility compliance?
 - What are the downsides of using text that only screen readers can access?
 - When is it OK to change the way a screen reader announces content?
 - Name some assistive technologies that you can think of. (these should be more than just screen readers)
-- What are the four categories of <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> compliance?
+- What is the <abbr title="World Wide Web Consortium">W3C</abbr>?
+- What are the four principals of <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> compliance?
 
 
 ## Technical
 - Talk about some of the different tools or methods that you can check on an element’s accessible name.  
 - What is the accessibility tree?
 - Describe what heading elements are used for.
+- Why are rems or ems preferable to pixels for setting type size?
 - Why is it important to allow the viewport to scale?
 - When is it OK to use the `title` attribute?
     + How is `title` exposed to assistive technologies?
@@ -43,7 +44,6 @@ These questions are grouped into three buckets: [General](#general), [Technical]
     + How would you mark-up an icon font or SVG that was for decorative purposes?
 - What are some issues with using CSS pseudo content.
 - What’s the first rule of <abbr title="Accessible Rich Internet Applications">ARIA</abbr>?
-- What is the <abbr title="World Wide Web Consortium">W3C</abbr>?
 - What is a skip link and why is it important?
 - How do you make <abbr>SVG</abbr>s accessible?
 - What are some of the tools available to test the accessibility of a website or web application?
