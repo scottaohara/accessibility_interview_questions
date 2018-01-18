@@ -10,72 +10,56 @@ These questions are grouped into three buckets: [General](#general), [Technical]
 ## General
 - Who benefits from accessibility?
 - Name some ways responsive/mobile first design can benefit accessibility.
-- Talk about the pros and cons of using iconography.
+- What should someone be aware of when using iconography in place of text?
 - In what ways should someone be able to close a modal dialog?
-- What guidelines are available to measure accessibility compliance?
-- What are the downsides of using text that only screen readers can access?
 - When is it OK to change the way a screen reader announces content?
-- Name some assistive technologies that you can think of. (these should be more than just screen readers)
-- What is the <abbr title="World Wide Web Consortium">W3C</abbr>?
-- What are the four principals of <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> compliance?
+- What assistive technologies have you used for testing or daily use?
+- Describe what heading elements are used for.
 
 
 ## Technical
-- Talk about some of the different tools or methods that you can check on an element’s accessible name.  
+- What methods would you use to find an element's accessible name?
 - What is the accessibility tree?
-- Describe what heading elements are used for.
 - Why are rems or ems preferable to pixels for setting type size?
 - Why is it important to allow the viewport to scale?
 - When is it OK to use the `title` attribute?
     + How is `title` exposed to assistive technologies?
     + What is `title`'s primary <abbr title="User Experience">UX</abbr> issue?
-- What are landmarks?
-    + Why might someone confuse `article` as a landmark?
-    + How many `main` elements can be used in a single document?
-- When is it OK to use a toggle button, such as a `button` utilizing `aria-pressed` and/or `role="switch"` over a checkbox?
-- Describe a way to hide content to only sighted users.
-    + How would you hide content from all users?
-    + What method would you use to hide content from all users, but also use that content as instructions to an assistive technology user?
+- Describe a scenario where you might use `aria-describedby`.
+- What are landmark roles and how can they be useful?
+- When might you use a toggle button, such as a `button` utilizing `aria-pressed` and/or `role="switch"` over a checkbox?
+- Describe ways to hide content:
+    + From all users.
+    + From only assistive screen reader users.
+    + From sighted users, but not screen reader users.
 - When is it OK to set `alt=""` on images?
 - What is the difference between `aria-hidden` and `role="presentation"`?
-- When should you use `aria-live="assertive"` instead of `aria-live="pol
+- When should you use `aria-live="assertive"` instead of `aria-live="polite"`
 - Describe instances where you might use an icon font.
-    + When or why might SVGs be better to use?
+    + When or why would you use an SVG instead?
     + How would you mark-up an icon font or SVG that was for decorative purposes?
 - What are some issues with using CSS pseudo content.
-- What’s the first rule of <abbr title="Accessible Rich Internet Applications">ARIA</abbr>?
-- What is a skip link and why is it important?
-- How do you make <abbr>SVG</abbr>s accessible?
+- What are skip links and who benefits from them?
 - What are some of the tools available to test the accessibility of a website or web application?
 - Describe an instance where an automated test would not flag a blatant accessibility error?
-- When should you recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
+- When should you use or recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
-- Describe how a single page web app should manage focus when a person loads a new screen.
-- When is it OK to use table elements? 
+- Describe how a single page web app should handle focus when a person loads a new screen.
 - What other states can be set to a selector besides `:hover`?
-- How does performance affect accessibility?
-- In most cases, why is it important to not solely rely on <abbr title="Cascading Style Sheets">CSS</abbr> to indicate state.
+- Why shouldn't you only rely on visual styling to indicate state.
+- What are some issues with carousels?
 
 
 ## Design
 - Talk about the pros and cons of flat and skeuomorphic design trends in regards to accessibility.
 - Explain the importance of color contrast.
-- When is it OK to remove focus with <abbr>CSS</abbr>?
-- Explain how the Gestalt Law of Proximity applies to error messaging.
-- When is it OK to use animation?
-- Explain how you would make an infographic accessible to someone who can't see.
-- How can typography help people with Dyslexia?
-- Why should links be underlined?
-- What are some issues with carousels?
-- What are some issues with infinite scrolling?
-- What are some issues with scrolljacking?
-- What are some issues with hollow buttons?
-- What are the advantages and disadvantages of voice <abbr>UI</abbr>?
-- How can whitespace help accessibility? How can it hinder it?
-- What makes for a good loading screen?
+- When is it OK to remove default visual focus indicators?
+- Describe appropriate error messaging locations for invalid form fields.
+- Why should you be careful when using animation in UIs?
+- Explain how you would make an infographic accessible for screen reader users.
+- What are some issues with modifying normal scrolling behavior. For example: infinite scrolling or scrolljacking?
 - Why is color alone insufficient to draw attention to actionable elements, or to convey state?
-- Where is the optimal location to place a form validation error message? What about an error message for an individual form field?
-- Talk about the importance of good copywriting for a user interface.
+- Talk about the importance of using plain language.
 
 
 ## Have a question to add?
