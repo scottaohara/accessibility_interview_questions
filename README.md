@@ -1,10 +1,10 @@
 # Accessibility Interview Questions  
 
-Use these questions as jumping off points for discussions. Learning how someone solves problems, and interprets UX best practices, is far better than learning if they can recite specifications or keyboard shortcuts off the top of their head.
+Use these questions like these as jumping off points for discussion. Learning how someone solves problems, and interprets accessible and inclusive UX best practices is far better than learning if they can readily recite specifications or keyboard shortcuts.
 
-These questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). This may be a mistake, but we're going with it for now. 
+Questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). This may be a mistake, but we're going with it for now. If you have better ideas, please [let us know](https://github.com/scottaohara/accessibility_interview_questions/issues).
 
-Since accessibility is a holistic practice, ideally a candidate for an accessibility specific role should have some insight into each category. Modify questions as needed, and ask only those that would best represent the skill set of the role you are looking to fill.
+Since accessibility is a holistic practice, ideally a candidate, for an accessibility specific role, should have some insight into each category. Modify questions as needed, and ask only those that would best represent the skill set of the role you are looking to fill.
 
 
 
