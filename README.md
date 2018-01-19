@@ -14,7 +14,10 @@ Since accessibility is a holistic practice, ideally a candidate, for an accessib
 - What should someone be aware of when using iconography in place of text?
 - In what ways should someone be able to close a modal dialog?
 - When is it OK to change the way a screen reader announces content?
-- What assistive technologies have you used for testing or daily use?
+- Have you used a screen reader to test web pages or applications?
+    + Which screen reader?
+    + What do you feel is your level of skill and expertise?
+- What other assistive technologies have you used for testing or daily use?
 - Describe what heading elements are used for.
 
 
@@ -49,6 +52,7 @@ Since accessibility is a holistic practice, ideally a candidate, for an accessib
 - What other states can be set to a selector besides `:hover`?
 - Why shouldn't you only rely on visual styling to indicate state.
 - What are some issues with carousels?
+- Describe the steps you take in reviewing or auditing a web page or website for accessibility?
 
 
 ## Design
