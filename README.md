@@ -1,10 +1,11 @@
 # Accessibility Interview Questions  
 
-Accessibility is a holistic practice. Ideally, a candidate should be able to answer some questions from each category, regardless of the role you are looking to fill.
+Use these questions as jumping off points for discussions. Learning how someone solves problems, and interprets UX best practices, is far better than learning if they can recite specifications or keyboard shortcuts off the top of their head.
 
-Use these questions as jumping off points to discuss hows and whys. Learning how someone solves problems is far better than learning if they can recite specifications off the top of their head.
+These questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). This may be a mistake, but we're going with it for now. 
 
-These questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). This may be a mistake, but we're going with it for now. Revise questions as needed per situation.
+Since accessibility is a holistic practice, ideally a candidate for an accessibility specific role should have some insight into each category. Modify questions as needed, and ask only those that would best represent the skill set of the role you are looking to fill.
+
 
 
 ## General
