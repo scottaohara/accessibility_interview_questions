@@ -11,10 +11,8 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What should someone be aware of when using iconography in place of text?
 - In what ways should someone be able to close a modal dialog?
 - When is it OK to change the way a screen reader announces content?
-- Have you used a screen reader to test web pages or applications?
-    + Which screen reader?
-    + What do you feel is your level of skill and expertise?
-- What other assistive technologies have you used for testing or daily use?
+- What assistive technologies (ATs) are you familiar with (desktop + mobile)?
+    + What do you feel is your skill level with AT(s)?
 - Describe what heading elements are used for.
 
 
@@ -42,6 +40,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What are some issues with using CSS pseudo content.
 - What are skip links and who benefits from them?
 - What are some of the tools available to test the accessibility of a website or web application?
+- Describe the steps you take in reviewing or auditing a website or application for accessibility?
 - Describe an instance where an automated test would not flag a blatant accessibility error?
 - When should you use or recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
@@ -49,7 +48,6 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What other states can be set to a selector besides `:hover`?
 - Why shouldn't you only rely on visual styling to indicate state.
 - What are some issues with carousels?
-- Describe the steps you take in reviewing or auditing a web page or website for accessibility?
 
 
 ## Design
