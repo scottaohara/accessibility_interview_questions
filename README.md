@@ -33,11 +33,11 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + From sighted users, but not screen reader users.
 - When is it OK to set `alt=""` on images?
 - What is the difference between `aria-hidden` and `role="presentation"`?
-- When should you use `aria-live="assertive"` instead of `aria-live="polite"`
+- When should you use `aria-live="assertive"` instead of `aria-live="polite"`?
 - Describe instances where you might use an icon font.
     + When or why would you use an SVG instead?
     + How would you mark-up an icon font or SVG that was for decorative purposes?
-- What are some issues with using CSS pseudo content.
+- What are some issues with using CSS pseudo content?
 - What are skip links and who benefits from them?
 - What are some of the tools available to test the accessibility of a website or web application?
 - Describe the steps you take in reviewing or auditing a website or application for accessibility?
@@ -46,7 +46,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
 - Describe how a single page web app should handle focus when a person loads a new screen.
 - What other states can be set to a selector besides `:hover`?
-- Why shouldn't you only rely on visual styling to indicate state.
+- Why shouldn't you only rely on visual styling to indicate state?
 - What are some issues with carousels?
 
 
@@ -55,9 +55,9 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Explain the importance of color contrast.
 - When is it OK to remove default visual focus indicators?
 - Describe appropriate error messaging locations for invalid form fields.
-- Why should you be careful when using animation in UIs?
+- Why should you be careful when using animation in user interfaces?
 - Explain how you would make an infographic accessible for screen reader users.
-- What are some issues with modifying normal scrolling behavior. For example: infinite scrolling or scrolljacking?
+- What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
 - Why is color alone insufficient to draw attention to actionable elements, or to convey state?
 - Talk about the importance of using plain language.
 
