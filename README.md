@@ -51,7 +51,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 
 
 ## Design
-- Talk about the pros and cons of flat and skeuomorphic design trends in regards to accessibility.
+- Talk about the pros and cons of flat and [skeuomorphic design](http://whatis.techtarget.com/definition/skeuomorphism) trends in regards to accessibility.
 - Explain the importance of color contrast.
 - When is it OK to remove default visual focus indicators?
 - Describe appropriate error messaging locations for invalid form fields.
