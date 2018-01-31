@@ -13,10 +13,11 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - When is it OK to change the way a screen reader announces content?
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
     + What do you feel is your skill level with AT(s)?
-- Describe what heading tags are used for.
+- Describe what heading tags are used for.  
 
 
 ## Technical
+- Describe appropriate instances to use a link, vs a generic button, vs a submit button
 - What methods would you use to find an element's accessible name?
 - What is the accessibility tree?
 - Why are rems or ems preferable to pixels for setting type size?
