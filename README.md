@@ -13,7 +13,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - When is it OK to change the way a screen reader announces content?
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
     + What do you feel is your skill level with AT(s)?
-- Describe what heading elements are used for.
+- Describe what heading tags are used for.
 
 
 ## Technical
