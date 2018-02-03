@@ -67,4 +67,4 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 
 ## Thank you
 Thank you to [all contributors](https://github.com/scottaohara/accessibility_interview_questions/graphs/contributors).  
-Special shoutout to [Eric Bailey](https://github.com/ericwbailey) and [Ashley Bischoff](https://github.com/handcoding) many contributions not recorded by GitHub.
+Special shoutout to [Eric Bailey](https://github.com/ericwbailey) and [Ashley Bischoff](https://github.com/handcoding) for many contributions not recorded by GitHub.
