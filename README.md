@@ -16,6 +16,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe what someone would use heading tags for.  
 - What are skip links and who benefits from them?
 - What are some of the tools available to test the accessibility of a website or web application?
+- How can using plain language benefit the accessibility of a document?
 
 
 ## Technical
@@ -58,7 +59,6 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Explain how you would make an infographic accessible for screen reader users.
 - What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
 - Why is color alone insufficient to draw attention to actionable elements, or to convey state?
-- Talk about the importance of using plain language.
 
 
 ## Have a question to add?
