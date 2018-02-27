@@ -19,10 +19,12 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What are skip links and who benefits from them?
 - What are some of the tools available to test the accessibility of a website or web application?
 - How can using plain language benefit the accessibility of a document?
+- Describe appropriate instances to use a link, vs a generic button, vs a submit button.
+- Why shouldn't you only rely on visual styling to indicate state?
+- What are some issues with carousels?
 
 
 ## Technical
-- Describe appropriate instances to use a link, vs a generic button, vs a submit button
 - What methods would you use to find an element's accessible name?
 - What is the accessibility tree?
 - Why are rems or ems preferable to pixels for setting type size?
@@ -47,8 +49,6 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - When should you use or recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
 - Describe your thoughts on how a single page web app should handle focus when a new screen loads.
-- Why shouldn't you only rely on visual styling to indicate state?
-- What are some issues with carousels?
 
 
 ## Design
