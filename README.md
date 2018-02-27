@@ -1,5 +1,4 @@
 # Accessibility Interview Questions  
-
 Use these questions as conversation starters. Learning how someone solves problems, and interprets accessible and inclusive user experiences is far better than learning if they can recite specifications or keyboard shortcuts.
 
 Questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). These categories may be a mistake, but we're going with it for now. If you have better ideas for categories, and questions in general, please [let us know](https://github.com/scottaohara/accessibility_interview_questions/issues)! Ideally, a candidate would be able to answer questions from each category.
@@ -22,6 +21,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe appropriate instances to use a link, vs a generic button, vs a submit button.
 - Why shouldn't you only rely on visual styling to indicate state?
 - What are some issues with carousels?
+- What are some design considerations for supporting text resize/zoom on web? Mobile apps?
 
 
 ## Technical
