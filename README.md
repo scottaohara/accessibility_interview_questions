@@ -14,7 +14,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What are your thoughts on modifying the way screen readers announce certain content?
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
     + What do you feel is your skill level with these AT(s)?
-- Describe what someone would use heading tags for.  
+- Describe the purpose for heading and header elements, and how you might use them in a website or application.  
 - What are skip links and who benefits from them?
 - What are some of the tools available to test the accessibility of a website or web application?
 - How can using plain language benefit the accessibility of a document?
