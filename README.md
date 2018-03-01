@@ -11,7 +11,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Name some ways responsive/mobile first design can affect accessibility.
 - What are some user experience (UX) concerns to be aware of when using iconography in user interfaces (UI)?
 - In what ways should someone be able to close a modal dialog?
-- What are your thoughts on modifying the way screen readers announce certain content?
+- What is your understanding of the "accessible name computation" and how it affects modifying the way screen readers announce certain content?
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
     + What do you feel is your skill level with these AT(s)?
 - Describe the purpose for heading and header elements, and how you might use them in a website or application.  
@@ -49,6 +49,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - When should you use or recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
 - Describe your thoughts on how a single page web app should handle focus when a new screen loads.
+- Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
 
 
 ## Design
