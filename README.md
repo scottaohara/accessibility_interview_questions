@@ -40,7 +40,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + From only screen reader users.
     + From sighted users, but not screen reader users.
 - When is the affect of `alt=""` on images?
-- What is the difference between `aria-hidden="true"` and `role="presentation"`?
+- What is the difference between `aria-hidden="true"` and `role="presentation"` or `none`?
 - When should you use `aria-live="assertive"` instead of `aria-live="polite"`?
 - How would you mark-up an icon font or SVG that was for decorative purposes?
 - What are some issues with using CSS pseudo content?
