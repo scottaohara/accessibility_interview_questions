@@ -22,6 +22,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Why shouldn't you only rely on visual styling to indicate state?
 - What are some issues with carousels?
 - What are some design considerations for supporting text resize/zoom on web? Mobile apps?
+- In what ways can the CSS `display` property affect the accessibility of a document?
 
 
 ## Technical
