@@ -51,6 +51,9 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
 - Describe your thoughts on how a single page web app should handle focus when a new screen loads.
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
+- Describe a scenario where an image within a `figure`, with a `figcaption` would be appropriate.
+    + What might be the `alt` attribute's value for the image?
+    + What would be an appropriate `figcaption`?
 
 
 ## Design
