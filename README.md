@@ -40,7 +40,8 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + From all users.
     + From only screen reader users.
     + From sighted users, but not screen reader users.
-- When is the affect of `alt` without a set value, or `alt=""` on images?
+- What is the affect of `alt` without a set value, or `alt=""` on images? 
+- Is it possible to overuse ARIA in a website?  Explain why or why not.
 - What is the difference between `aria-hidden="true"` and `role="presentation"` or `role="none"`?
 - When should you use `aria-live="assertive"` instead of `aria-live="polite"`?
 - How would you mark-up an icon font or SVG that was for decorative purposes?
