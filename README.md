@@ -46,7 +46,8 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + And why you might do so.
 - Is it possible to overuse ARIA in a website?  Explain why or why not.
 - What is the difference between `aria-hidden="true"` and `role="presentation"` or `role="none"`?
-- When should you use `aria-live="assertive"` instead of `aria-live="polite"`?
+- Describe instances where you might need to use `aria-live`.
+    + What values (such as `assertive` or `polite`) might you give the attribute in different situations?
 - How would you mark-up an icon font or SVG that was for decorative purposes?
 - What are some issues with using CSS pseudo content?
 - Describe the steps you take in reviewing or auditing a website or application for accessibility?
@@ -60,7 +61,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 
 ## Design
 - Talk about the pros and cons of flat and [skeuomorphic design](http://whatis.techtarget.com/definition/skeuomorphism) trends in regards to accessibility.
-- Explain the importance of color contrast.
+- Explain the importance of color contrast in designing for inclusion.
 - Besides `:hover`, name other states an actionable element (links, buttons, form controls, etc.) could have styles for, and why providing them is important?
 - What are your thoughts on the removal of visual focus indicators for UI elements?
 - If a form or form field were to return an error message, where might you want those error messages to be located?
