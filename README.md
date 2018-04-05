@@ -13,12 +13,14 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
     + What do you feel is your skill level with these AT(s)?
 - Describe the purpose of heading and header elements, and how you might use them in a website or application.  
-- What are skip links and who benefits from them?
+- What are skip links?
+    + How can users benefit from them? 
+    + What are some of their limitations?
 - What are some of the tools available to test the accessibility of a website or web application?
 - How can using plain language benefit the accessibility of a document?
 - Describe appropriate instances to use a link, vs a generic button, vs a submit button.
-- Why shouldn't you only rely on visual styling to indicate state?
-- What are some issues with carousels?
+- Describe ways to indicate an element or component's state that aren't entirely reliant on visuals.
+- How can carousels be problematic for users with disabilities?
 - What are some design considerations for supporting text resize/zoom on web? Mobile apps?
 - In what ways can the CSS `display` property affect the accessibility of a document?
 - What is the difference between `legend` and a `label` elements?
