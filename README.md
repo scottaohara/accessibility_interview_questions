@@ -61,7 +61,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 ## Design
 - Talk about the pros and cons of flat and [skeuomorphic design](http://whatis.techtarget.com/definition/skeuomorphism) trends in regards to accessibility.
 - Explain the importance of color contrast.
-- Besides `:hover`, name other states an actionable item (links, buttons, form controls, etc.) could have styles for, and why?
+- Besides `:hover`, name other states an actionable element (links, buttons, form controls, etc.) could have styles for, and why providing them is important?
 - What are your thoughts on the removal of visual focus indicators for UI elements?
 - If a form or form field were to return an error message, where might you want those error messages to be located?
 - How can utilizing animation in an interface affect the user experience?
