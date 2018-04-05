@@ -10,11 +10,9 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + Can you provide an example? (does not need to be web related)
 - Name some ways responsive/mobile first design can affect accessibility.
 - What are some user experience (UX) concerns to be aware of when using iconography in user interfaces (UI)?
-- In what ways should someone be able to close a modal dialog?
-- What is your understanding of the "accessible name computation" and how it affects modifying the way screen readers announce certain content?
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
     + What do you feel is your skill level with these AT(s)?
-- Describe the purpose for heading and header elements, and how you might use them in a website or application.  
+- Describe the purpose of heading and header elements, and how you might use them in a website or application.  
 - What are skip links and who benefits from them?
 - What are some of the tools available to test the accessibility of a website or web application?
 - How can using plain language benefit the accessibility of a document?
@@ -23,6 +21,9 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What are some issues with carousels?
 - What are some design considerations for supporting text resize/zoom on web? Mobile apps?
 - In what ways can the CSS `display` property affect the accessibility of a document?
+- What is the difference between `legend` and a `label` elements?
+- What effect does no `alt` attribute, or an `alt` attribute with an empty string have on an image? 
+    + Can you describe instances where no `alt`, and an empty `alt` would each be appropriate?
 
 
 ## Technical
@@ -36,11 +37,11 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe a scenario where you might use `aria-describedby`.
 - What are landmark roles and how can they be useful?
 - When might you use a toggle button, such as a `button` utilizing `aria-pressed` and/or `role="switch"` over a checkbox?
-- Describe ways to hide content:
+- Describe methods to hide content:
     + From all users.
     + From only screen reader users.
     + From sighted users, but not screen reader users.
-- What is the affect of `alt` without a set value, or `alt=""` on images? 
+    + And why you might do so.
 - Is it possible to overuse ARIA in a website?  Explain why or why not.
 - What is the difference between `aria-hidden="true"` and `role="presentation"` or `role="none"`?
 - When should you use `aria-live="assertive"` instead of `aria-live="polite"`?
@@ -52,9 +53,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
 - Describe your thoughts on how a single page web app should handle focus when a new screen loads.
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
-- Describe a scenario where an image within a `figure`, with a `figcaption` would be appropriate.
-    + What might be the `alt` attribute's value for the image?
-    + What would be an appropriate `figcaption`?
+- What is your understanding of "accessible name computation" and how it affects modifying the way screen readers announce certain content?
 
 
 ## Design
