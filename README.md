@@ -38,7 +38,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What sort of information is appropriate for use in a `title`?
 - Describe a scenario where you might use `aria-describedby`.
 - What are landmark roles and how can they be useful?
-- When might you use a toggle button, such as a `button` utilizing `aria-pressed` and/or `role="switch"` over a checkbox?
+- For each element, when might you use a toggle button, a switch control, or a checkbox?
 - Describe methods to hide content:
     + From all users.
     + From only screen reader users.
@@ -49,7 +49,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe instances where you might need to use `aria-live`.
     + What values (such as `assertive` or `polite`) might you give the attribute in different situations?
 - How would you mark-up an icon font or SVG that was for decorative purposes?
-- What are some issues with using CSS pseudo content?
+- How is CSS pseudo content treated by screen readers?
 - Describe the steps you take in reviewing or auditing a website or application for accessibility?
 - Describe an instance where an automated test would not flag a blatant accessibility error?
 - When should you use or recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
@@ -57,17 +57,17 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe your thoughts on how a single page web app should handle focus when a new screen loads.
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
 - What is your understanding of "accessible name computation" and how it affects modifying the way screen readers announce certain content?
+- What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
 
 
 ## Design
 - Talk about the pros and cons of flat and [skeuomorphic design](http://whatis.techtarget.com/definition/skeuomorphism) trends in regards to accessibility.
 - Explain the importance of color contrast in designing for inclusion.
 - Besides `:hover`, name other states an actionable element (links, buttons, form controls, etc.) could have styles for, and why providing them is important?
-- What are your thoughts on the removal of visual focus indicators for UI elements?
+- When might it be appropriate to remove the visual outline from a focused element?
 - If a form or form field were to return an error message, where might you want those error messages to be located?
 - How can utilizing animation in an interface affect the user experience?
-- Explain how you would make an infographic accessible for screen reader users.
-- What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
+- Explain how you could make an infographic accessible for screen reader users.
 - Why is color alone insufficient to draw attention to actionable elements, or to convey state?
 
 
