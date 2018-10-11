@@ -69,6 +69,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - How can utilizing animation in an interface affect the user experience?
 - Explain how you could make an infographic accessible for screen reader users.
 - Why is color alone insufficient to draw attention to actionable elements, or to convey state?
+- What are some of the inclusive UX problems that need to be solved when content (static or actionable) is revealed on `:hover`, and how would you propose solving for them?
 
 
 ## Have a question to add?
