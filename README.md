@@ -33,10 +33,10 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What is the accessibility tree?
 - Why are rems or ems preferable to pixels for setting type size?
 - Why is it important to allow the viewport to scale?
-- How is `title` attribute exposed to assistive technologies?
-    + What kind of content should `title`s be used on.
-    + What sort of information is appropriate for use in a `title`?
-- Describe a scenario where you might use `aria-describedby`.
+- How is the `title` attribute exposed to assistive technologies?
+    + What kind of elements can `title` attributes be used on?
+    + What sort of information is appropriate for use with the `title` attribute?
+- Describe a scenario where you might need to use `aria-describedby`.
 - What are landmark roles and how can they be useful?
 - For each element, when might you use a toggle button, a switch control, or a checkbox?
 - Describe methods to hide content:
@@ -45,7 +45,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + From sighted users, but not screen reader users.
     + And why you might do so.
 - Is it possible to overuse ARIA in a website?  Explain why or why not.
-- What is the difference between `aria-hidden="true"` and `role="presentation"` or `role="none"`?
+- What is the difference between `hidden`, `aria-hidden="true"` and `role="presentation"` or `role="none"`?
 - Describe instances where you might need to use `aria-live`.
     + What values (such as `assertive` or `polite`) might you give the attribute in different situations?
 - How would you mark-up an icon font or SVG that was for decorative purposes?
