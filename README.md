@@ -17,7 +17,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + How can users benefit from them? 
     + What are some of their limitations?
 - What are some of the tools available to test the accessibility of a website or web application?
-- How can using plain language benefit the accessibility of a document?
+- How can using plain language benefit the accessibility of a project?
 - Describe appropriate instances to use a link, vs a generic button, vs a submit button.
 - Describe ways to indicate an element or component's state that aren't entirely reliant on visuals.
 - How can carousels be problematic for users with disabilities?
