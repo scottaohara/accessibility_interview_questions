@@ -12,7 +12,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What are some user experience (UX) concerns to be aware of when using iconography in user interfaces (UI)?
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
     + What do you feel is your skill level with these AT(s)?
-- Describe the purpose of heading and header elements, and how you might use them in a website or application.  
+- Describe the purpose of heading and header elements, and how they are useful in websites and web applications.  
 - What are skip links?
     + How can users benefit from them? 
     + What are some of their limitations?
@@ -23,9 +23,12 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - How can carousels be problematic for users with disabilities?
 - What are some design considerations for supporting text resize/zoom on web? Mobile apps?
 - In what ways can the CSS `display` property affect the accessibility of a document?
-- What is the difference between `legend` and a `label` elements?
-- What effect does no `alt` attribute, or an `alt` attribute with an empty string have on an image? 
-    + Can you describe instances where no `alt`, and an empty `alt` would each be appropriate?
+- What is the difference between `legend` and `label` elements?
+- What is the purpose of the `alt` attribute for images? 
+    + Can you describe the effect of an empty `alt`, or the lack of the attribute, on an image?  
+    + In what instances might an empty `alt` or no `alt` be appropriate?
+    + How might alternative text for an image vary, depending on the context the image is used in?
+    + Since `svg`s don't accept the `alt` attribute, how can one provide alternative text for these graphics?
 
 
 ## Technical
