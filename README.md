@@ -49,7 +49,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + From sighted users, but not screen reader users.
     + And why you might do so.
 - Is it possible to overuse ARIA in a website?  Explain why or why not.
-- What other assistive technologies can be affected by use of ARIA, aside from screen readers? How?
+- Aside from screen readers, What other assistive technologies can be affected by use of ARIA? How?
 - What is the difference between `hidden`, `aria-hidden="true"` and `role="presentation"` or `role="none"`?
 - Describe instances where you might need to use `aria-live`.
     + What values (such as `assertive` or `polite`) might you give the attribute in different situations?
