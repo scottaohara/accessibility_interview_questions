@@ -23,7 +23,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe ways to indicate an element or component's state that aren't entirely reliant on visuals.
 - How can carousels be problematic for users with disabilities?
 - What are some design considerations for supporting text resize/zoom on web? Mobile apps?
-- In what ways can the CSS `display` property affect the accessibility of a document?
+- In what ways can the CSS `display` property affect the accessibility of elements within a document?
 - What is the difference between `legend` and `label` elements?
 - What is the purpose of the `alt` attribute for images? 
     + Can you describe the effect of an empty `alt`, or the lack of the attribute, on an image?  
