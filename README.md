@@ -42,7 +42,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What sort of information is appropriate for use with the `title` attribute?
 - Describe a scenario where you might need to use `aria-describedby`.
 - What are landmark roles and how can they be useful?
-- For each element, when might you use a toggle button, a switch control, or a checkbox?
+- In what situations might you use a toggle button, vs a switch control, vs a checkbox?
 - Describe methods to hide content:
     + From all users.
     + From only screen reader users.
