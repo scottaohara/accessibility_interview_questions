@@ -32,6 +32,9 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + Since `svg`s don't accept the `alt` attribute, how can one provide alternative text for these graphics?
     + Do you need to supply an image an `alt` attribute if used witin a `figure` with a `figcaption`?
 - How would you convince your Manager to allocate some funds to do an accessibility external audit?
+- Describe a situation where a coworker may have been resistant to accessibility or inclusive design best practices.
+    + How were you able to work with them to mitigate such issues?
+    + What sort of strategies do you use in situations like these to help educate coworkers?
 
 
 ## Technical
