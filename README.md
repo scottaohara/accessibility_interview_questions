@@ -31,6 +31,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + How might alternative text for an image vary, depending on the context the image is used in?
     + Since `svg`s don't accept the `alt` attribute, how can one provide alternative text for these graphics?
     + Do you need to supply an image an `alt` attribute if used witin a `figure` with a `figcaption`?
+- How would you convince your Manager to allocate some funds to do an accessibility external audit?
 
 
 ## Technical
