@@ -15,7 +15,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What do you feel is your skill level with these AT(s)?
 - Describe the purpose of heading and header elements, and how they are useful in websites and web applications.  
 - What are skip links?
-    + How can users benefit from them? 
+    + What benefit(s) do they provide? 
     + What are some of their limitations?
 - What are some of the tools available to test the accessibility of a website or web application?
 - How can using plain language benefit the accessibility of a project?
