@@ -12,25 +12,17 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Name some ways responsive/mobile first design can affect accessibility.
 - What are some user experience (UX) concerns to be aware of when using iconography in user interfaces (UI)?
 - What assistive technologies (ATs) are you familiar with (desktop + mobile)?
-    + What do you feel is your skill level with these AT(s)?
-- Describe the purpose of heading and header elements, and how they are useful in websites and web applications.  
+    + What do you feel is your skill level with these AT(s)? 
 - What are skip links?
     + What benefit(s) do they provide? 
     + What are some of their limitations?
 - What are some of the tools available to test the accessibility of a website or web application?
+- What is WCAG?
+    + What are the differences between A, AA, and AAA compliance?
 - How can using plain language benefit the accessibility of a project?
 - Describe appropriate instances to use a link, vs a generic button, vs a submit button.
 - Describe ways to indicate an element or component's state that aren't entirely reliant on visuals.
 - How can carousels be problematic for users with disabilities?
-- What are some design considerations for supporting text resize/zoom on web? Mobile apps?
-- In what ways can the CSS `display` property affect the accessibility of elements within a document?
-- What is the difference between `legend` and `label` elements?
-- What is the purpose of the `alt` attribute for images? 
-    + Can you describe the effect of an empty `alt`, or the lack of the attribute, on an image?  
-    + In what instances might an empty `alt` or no `alt` be appropriate?
-    + How might alternative text for an image vary, depending on the context the image is used in?
-    + Since `svg`s don't accept the `alt` attribute, how can one provide alternative text for these graphics?
-    + Do you need to supply an image an `alt` attribute if used witin a `figure` with a `figcaption`?
 - How would you convince your Manager to allocate some funds to do an accessibility external audit?
 - Describe a situation where a coworker may have been resistant to accessibility or inclusive design best practices.
     + How were you able to work with them to mitigate such issues?
@@ -60,10 +52,18 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What values (such as `assertive` or `polite`) might you give the attribute in different situations?
 - How would you mark-up an icon font or SVG that was for decorative purposes?
 - How is CSS pseudo content treated by screen readers?
+- What is the purpose of the `alt` attribute for images? 
+    + Can you describe the effect of an empty `alt`, or the lack of the attribute, on an image?  
+    + In what instances might an empty `alt` or no `alt` be appropriate?
+    + How might alternative text for an image vary, depending on the context the image is used in?
+    + Since `svg`s don't accept the `alt` attribute, how can one provide alternative text for these graphics?
+    + Do you need to supply an image an `alt` attribute if used witin a `figure` with a `figcaption`?
 - Describe the steps you take in reviewing or auditing a website or application for accessibility?
 - Describe an instance where an automated test would not flag a blatant accessibility error?
 - When should you use or recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
+- What is the difference between `legend` and `label` elements?
+- Describe the purpose of heading and header elements, and how they are useful in websites and web applications. 
 - Describe your thoughts on how a single page web app should handle focus when a new screen loads.
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
 - What is your understanding of "accessible name computation" and how it affects modifying the way screen readers announce certain content?
