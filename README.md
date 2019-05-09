@@ -41,7 +41,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - What methods would you use to find an element's accessible name?
 - What is the accessibility tree?
 - Why are rems or ems preferable to pixels for setting type size?
-- Why is it important to allow the viewport to scale?
+- Why is it important to allow the viewport to be resized, and/or zoomed?
 - How is the `title` attribute exposed to assistive technologies?
     + What kind of elements can `title` attributes be used on?
     + What sort of information is appropriate for use with the `title` attribute?
