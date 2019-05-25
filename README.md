@@ -64,10 +64,11 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
 - What is the difference between `legend` and `label` elements?
 - Describe the purpose of heading and header elements, and how they are useful in websites and web applications. 
-- Describe your thoughts on how a single page web app should handle focus when a new screen loads.
+- Describe your thoughts on how a single page web app should handle focus when changing routes.
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
 - What is your understanding of "accessible name computation" and how it affects modifying the way screen readers announce certain content?
 - What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
+- Some ARIA widgets are best suited for desktop & keyboard, rather than mobile/touch interactions.  Are you familiar with widgets that would be identified this way and why?
 
 
 ## Design
