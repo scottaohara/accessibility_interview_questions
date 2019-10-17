@@ -38,6 +38,8 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What kind of elements can `title` attributes be used on?
     + What sort of information is appropriate for use with the `title` attribute?
 - Describe a scenario where you might need to use `aria-describedby`.
+- What is "tabtrapping" and when should it be used?
+- What are different use cases and values for `tabindex`?
 - What are landmark roles and how can they be useful?
 - In what situations might you use a toggle button, vs a switch control, vs a checkbox?
 - Describe methods to hide content:
