@@ -38,7 +38,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What kind of elements can `title` attributes be used on?
     + What sort of information is appropriate for use with the `title` attribute?
 - Describe a scenario where you might need to use `aria-describedby`.
-- What is a focus trap, or focus trapping? Describe an instance of when you'd need focus trapping, and how it can be an accessibility failure.
+- What is a focus trap, or focus trapping? Describe an instance of when you'd need focus trapping, and how it can be an accessibility failure if not used appropraitely.
 - Describe a situation where one might need to add or modify the the focusability of an element by using the `tabindex` attribute.
 - What are landmark roles and how can they be useful?
 - In what situations might you use a toggle button, vs a switch control, vs a checkbox?
@@ -47,15 +47,15 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + From only screen reader users.
     + From sighted users, but not screen reader users.
     + And why you might do so.
-- Is it possible to overuse ARIA in a website?  Explain why or why not.
-- Aside from screen readers, What other assistive technologies can be affected by use of ARIA? How?
+- Describe an instance of inappropriately using ARIA attributes.
+- Aside from screen readers, what other assistive technologies can be affected by use of ARIA? How?
 - What is the difference between `hidden`, `aria-hidden="true"` and `role="presentation"` or `role="none"`?
 - Describe instances where you might need to use `aria-live`.
     + What values (such as `assertive` or `polite`) might you give the attribute in different situations?
 - How would you mark-up an icon font or SVG that was for decorative purposes?
 - How is CSS pseudo content treated by screen readers?
 - What is the purpose of the `alt` attribute for images? 
-    + Can you describe the effect of an empty `alt`, or the lack of the attribute, on an image?  
+    + Can you describe the effect of an empty `alt`, and/or the lack of the attribute, on an image?  
     + In what instances might an empty `alt` or no `alt` be appropriate?
     + How might alternative text for an image vary, depending on the context the image is used in?
     + Since `svg`s don't accept the `alt` attribute, how can one provide alternative text for these graphics?
@@ -64,9 +64,10 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe an instance where an automated test would not flag a blatant accessibility error?
 - When should you use or recommend <abbr>ARIA</abbr> roles or attributes to solve an accessibility issue?
 - Describe your process for figuring out if an accessibility bug is due to a developer, browser, or assistive technology error?
-- What is the difference between `legend` and `label` elements?
-- Describe the purpose of heading and header elements, and how they are useful in websites and web applications. 
-- Describe your thoughts on how a single page web app should handle focus when changing routes.
+- What is the difference between `legend`, `caption` and `label` elements?  
+     + What are their similarities?
+- Describe the purpose of heading and header elements, and how they are useful in websites and applications. 
+- Describe how you'd handle a single page web app should and managing focus when changing routes.
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
 - What is your understanding of "accessible name computation" and how it affects modifying the way screen readers announce certain content?
 - What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
