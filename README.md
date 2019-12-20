@@ -40,7 +40,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Describe a scenario where you might need to use `aria-describedby`.
 - What is a focus trap, or focus trapping? Describe an instance of when you'd need focus trapping, and how it can be an accessibility failure if not used appropraitely.
 - Describe a situation where one might need to add or modify the the focusability of an element by using the `tabindex` attribute.
-- What are landmark roles and how can they be useful?
+- What are landmark regions and how can they be useful?
 - In what situations might you use a toggle button, vs a switch control, vs a checkbox?
 - Describe methods to hide content:
     + From all users.
@@ -71,7 +71,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
 - What is your understanding of "accessible name computation" and how it affects modifying the way screen readers announce certain content?
 - What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
-- Some ARIA widgets are best suited for desktop & keyboard, rather than mobile/touch interactions.  Are you familiar with widgets that would be identified this way and why?
+- Some ARIA widgets are presently best supported devices with physical keyboard, rather than mobile/touch interfaces.  Are you aware of any widgets that would be described this way, and why?
 
 
 ## Design
