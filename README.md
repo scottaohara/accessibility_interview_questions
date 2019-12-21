@@ -71,7 +71,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
 - Name an ARIA attribute that requires either a child/parent relationship or a pairing role.
 - What is your understanding of "accessible name computation" and how it affects modifying the way screen readers announce certain content?
 - What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
-- Some ARIA widgets are presently best supported devices with physical keyboard, rather than mobile/touch interfaces.  Are you aware of any widgets that would be described this way, and why?
+- Some ARIA widgets are presently best supported on devices with physical keyboard, rather than mobile/touch interfaces.  Are you aware of any widgets that would be described this way, and why?
 
 
 ## Design
