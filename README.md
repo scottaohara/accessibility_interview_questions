@@ -1,7 +1,7 @@
 # Accessibility Interview Questions  
-These questions try to stay away from directly asking candidates to recite specifications, or rattle off screen reader hot keys. Those can easily be looked up on the job. Instead these questions try to act as conversation starters, to gain insight into how someone solves problems, and interprets accessible, inclusive user experiences.
+These questions try to stay away from asking people to recite specifications, or rattle off screen reader hot keys. Those can easily be looked up on the job. Instead these questions try to act as conversation starters, to gain insight into how someone solves problems, and interprets accessible, inclusive user experiences.
 
-Questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). These categories may be a mistake, but we're going with it for now. If you have better ideas for categories, and questions in general, please [let us know](https://github.com/scottaohara/accessibility_interview_questions/issues)! Ideally, a candidate would be able to answer questions from each category.
+Questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). These categories may be a mistake, but we're going with it for now. If you have ideas for categories, and questions in general, please [let us know](https://github.com/scottaohara/accessibility_interview_questions/issues)! Ideally a candidate would be able to answer questions from each category.
 
 
 ## General
@@ -38,7 +38,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What kind of elements can `title` attributes be used on?
     + What sort of information is appropriate for use with the `title` attribute?
 - Describe a scenario where you might need to use `aria-describedby`.
-- What is a focus trap, or focus trapping? Describe an instance of when you'd need focus trapping, and how it can be an accessibility failure if not used appropraitely.
+- What is a focus trap, or focus trapping? Describe an instance of when you'd need focus trapping, and how it can be an accessibility failure if not used appropriately.
 - Describe a situation where one might need to add or modify the focusability of an element by using the `tabindex` attribute.
 - What are landmark regions and how can they be useful?
 - In what situations might you use a toggle button, vs a switch control, vs a checkbox?
