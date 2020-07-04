@@ -39,7 +39,7 @@ Questions are grouped into three buckets: [General](#general), [Technical](#tech
     + What sort of information is appropriate for use with the `title` attribute?
 - Describe a scenario where you might need to use `aria-describedby`.
 - What is a focus trap, or focus trapping? Describe an instance of when you'd need focus trapping, and how it can be an accessibility failure if not used appropriately.
-- Describe a situation where one might need to add or modify the the focusability of an element by using the `tabindex` attribute.
+- Describe a situation where one might need to add or modify the focusability of an element by using the `tabindex` attribute.
 - What are landmark regions and how can they be useful?
 - In what situations might you use a toggle button, vs a switch control, vs a checkbox?
 - Describe methods to hide content:
