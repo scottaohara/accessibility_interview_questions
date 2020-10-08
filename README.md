@@ -3,6 +3,10 @@ These questions try to stay away from asking people to recite specifications, or
 
 Questions are grouped into three buckets: [General](#general), [Technical](#technical), and [Design](#design). These categories may be a mistake, but we're going with it for now. If you have ideas for categories, and questions in general, please [let us know](https://github.com/scottaohara/accessibility_interview_questions/issues)! Ideally a candidate would be able to answer questions from each category.
 
+## Leadership
+- Describe the kind of culture around accessibility you would create and how you would go about creating it
+- When there is more accessibility work to be done than the team can handle, how do you prioritize?
+- If a client/stakeholder doesn't want to pay for accessibility what would you do?
 
 ## General
 - Who benefits from accessibility?
