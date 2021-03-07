@@ -94,7 +94,7 @@ These categories may be a mistake, but we're going with it for now. If you have 
 
 ## Content
 - What are some things you can do to make an accessible presentation?
-- Is it possible to make email is accessible?
+- Is it possible to make email accessible?
 - How can you make a podcast accessible?
 - How would you make sure that a Word document is accessible?
 - How would you make sure that an Excel spreadsheet document is accessible?
